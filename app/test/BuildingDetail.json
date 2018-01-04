@@ -1,0 +1,11 @@
+{
+  "request": {
+      "buildingId": "1001"
+  },
+
+  "response": {
+    "rooms": [],
+    "msg": "ok",
+    "code": 0
+  }
+}

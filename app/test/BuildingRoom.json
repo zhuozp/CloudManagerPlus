@@ -1,0 +1,115 @@
+{
+  "roomSet": [
+    {
+      "roomLabel":"A1001",
+      "roomArea": 100,
+      "rent": 200,
+      "hasRent": true,
+      "renterName":"林某某",
+      "renterPhoneNo":"13530164032",
+      "identifyNo": "441522199910021234",
+      "roomImgUrls":[
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png"
+      ],
+      "rentCounter":200000,
+      "startDate":"2017-08-19",
+      "endDate":"2018-08-18",
+      "period":1,
+      "depositMethod":1,
+      "contactId":"1000100100"
+    },
+    {
+      "roomLabel":"A1002",
+      "roomArea": 100,
+      "hasRent": false,
+      "renterName":"",
+      "renterPhoneNo":"",
+      "roomImgUrls":[
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png"
+      ],
+      "rentCounter":200000,
+      "startDate":"",
+      "endDate":"",
+      "period":1,
+      "depositMethod":1,
+      "contactId":""
+    },
+    {
+      "roomLabel":"A1003",
+      "roomArea": 100,
+      "hasRent": false,
+      "renterName":"",
+      "renterPhoneNo":"",
+      "roomImgUrls":[
+
+      ],
+      "rentCounter":200000,
+      "startDate":"",
+      "endDate":"",
+      "period":1,
+      "depositMethod":1,
+      "contactId":"1000100100"
+    },
+    {
+      "roomLabel":"A1004",
+      "roomArea": 100,
+      "hasRent": true,
+      "renterName":"林某某",
+      "renterPhoneNo":"13530164032",
+      "roomImgUrls":[
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png"
+      ],
+      "rentCounter":200000,
+      "startDate":"2017-08-19",
+      "endDate":"2018-08-18",
+      "period":1,
+      "depositMethod":1,
+      "contactId":"1000100100"
+    },
+    {
+      "roomLabel":"A1005",
+      "roomArea": 100,
+      "hasRent": true,
+      "renterName":"林某某",
+      "renterPhoneNo":"13530164032",
+      "roomImgUrls":[
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png"
+      ],
+      "rentCounter":200000,
+      "startDate":"2017-08-19",
+      "endDate":"2018-08-18",
+      "period":1,
+      "depositMethod":1,
+      "contactId":"1000100100"
+    },
+    {
+      "roomLabel":"A1006",
+      "roomArea": 100,
+      "hasRent": true,
+      "renterName":"林某某",
+      "renterPhoneNo":"13530164032",
+      "roomImgUrls":[
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png",
+        "../../res/images/icon_phone.png"
+      ],
+      "rentCounter":200000,
+      "startDate":"2017-08-19",
+      "endDate":"2018-08-18",
+      "period":1,
+      "depositMethod":1,
+      "contactId":"1000100100"
+    }
+  ],
+
+  "msg":"OK",
+  "code":0,
+}

@@ -1,0 +1,18 @@
+{
+  "request": {
+      "buildingName": "腾讯大厦",
+      "address": "深南大道",
+      "rooms":["101", "102", "103"],
+      "prefRoomName":"B",
+      "version": "",
+      "os":"",
+      "admin": "*",
+      "adminPhone":"*"
+  },
+
+  "response": {
+      "buildingId": "10001",
+      "msg": "OK",
+      "code": 0
+  }
+}

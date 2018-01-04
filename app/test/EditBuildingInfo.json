@@ -1,0 +1,14 @@
+
+{
+  "buildingId":"001",
+  "imageUrl": "file://icon_phone.png",
+  "buildingName":"腾讯大厦1",
+  "totalArea":2224.5,
+  "lettedArea":100,
+  "renterCount": 1,
+  "totalRoom":225,
+  "idleRoom":224,
+  "needOrdersArea": 224,
+  "roomPref": "A",
+  "rooms":["1001","1002","5001", "15010"]
+}

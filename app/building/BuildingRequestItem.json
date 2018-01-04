@@ -1,0 +1,18 @@
+{
+  "userId":"",
+  "subUserId":"",
+  "buildingName": "",
+  "city":"",
+  "image": "",
+  "address":"",
+  "location": {
+    "lat":0.0,
+    "lng":0.0
+  },
+  "streetId":"",
+  "rooms":[],
+  "subUser":{
+      "mobile": "",
+      "userName": ""
+  }
+}

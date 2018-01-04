@@ -1,0 +1,12 @@
+{
+  "request": {
+      "id": "10001",
+      "token": "10001",
+  },
+
+  "response": {
+      "rentArea": 789.8,
+      "emptyArea": 789.0,
+      "canRentArea": 344
+  }
+}

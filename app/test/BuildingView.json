@@ -1,0 +1,140 @@
+{
+  "items":[
+    {
+      "buildingId":"001",
+      "imageUrl": "",
+      "buildingName":"腾讯大厦1",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224,
+      "address":"深圳南山科兴科学园"
+    },
+    {
+      "buildingId":"002",
+      "imageUrl": "",
+      "buildingName":"腾讯大厦2",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"003",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦3",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"004",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦4",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    },
+    {
+      "buildingId":"005",
+      "imageUrl": "../../res/images/icon_phone.png",
+      "buildingName":"腾讯大厦5",
+      "totalArea":2224.5,
+      "lettedArea":100,
+      "renterCount": 1,
+      "totalRoom":225,
+      "idleRoom":224,
+      "needOrdersArea": 224
+    }
+  ],
+
+  "msg": "OK",
+  "code": 0
+}

@@ -1,0 +1,43 @@
+{
+  "name": "CMP",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "immutability-helper": "2.2.0",
+    "lodash": "^4.12.0",
+    "node-forge": "^0.7.1",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.43.4",
+    "react-native-charts-wrapper": "^0.2.10",
+    "react-native-contacts-wrapper": "^0.2.4",
+    "react-native-easy-toast": "^1.0.6",
+    "react-native-flexi-radio-button": "^0.2.1",
+    "react-native-fs": "^2.5.1",
+    "react-native-image-crop-picker": "^0.16.1",
+    "react-native-image-picker": "^0.26.4",
+    "react-native-keyboard-aware-scroll-view": "^0.3.0",
+    "react-native-pdf-view": "^0.3.2",
+    "react-native-percentage-circle": "^1.0.6",
+    "react-native-picker": "^4.0.19",
+    "react-native-scrollable-tab-view": "^0.5.3",
+    "react-native-swipe-list-view": "^0.4.1",
+    "react-native-swiper": "^1.5.10",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-viewpager": "^0.2.13",
+    "react-native-wechat": "^1.9.9"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "optionalDependencies": {}
+}

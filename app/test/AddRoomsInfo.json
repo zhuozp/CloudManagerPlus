@@ -1,0 +1,13 @@
+
+{
+  "request": {
+      "alias": "***",
+      "rooms": "A1001",
+      "imgUrls":[],
+      "area": 788.9,
+      "price": 200,
+      "canRent": true,
+      "totalTenant": "*"
+
+  }
+}
