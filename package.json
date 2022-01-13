@@ -9,7 +9,7 @@
   "dependencies": {
     "immutability-helper": "2.2.0",
     "lodash": "^4.17.13",
-    "node-forge": "^0.7.1",
+    "node-forge": "^1.0.0",
     "react": "16.0.0-alpha.6",
     "react-native": "0.43.4",
     "react-native-charts-wrapper": "^0.2.10",
